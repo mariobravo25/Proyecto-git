@@ -1,0 +1,10 @@
+h1 {
+    background-color: aqua;
+    color: brown;
+    border: 1px dotted greenyellow;
+}
+
+h2 {
+    font-style: italic;
+    border-bottom: 2px solid brown;
+}
